@@ -1,0 +1,28 @@
+body {
+	
+}
+
+ul {
+	display: flex;
+}
+.octocat img {
+	border:1px;
+	height:100px;
+	width:100px;
+}
+
+.octocat > a {
+	height:20px;
+	width:10px;
+}
+
+.image-footer {
+	display: flex;
+	line-height:100px;
+}
+.image-number {
+	display: flex;
+}
+.image-caption {
+	
+}
