@@ -5,10 +5,10 @@ body {
 ul {
 	display: flex;
 }
-.octocat img {
+.octocat > a > img {
 	border:1px;
-	height:100px;
-	width:100px;
+	height:200px;
+	width:200px;
 }
 
 .octocat > a {
@@ -23,6 +23,6 @@ ul {
 .image-number {
 	display: flex;
 }
-.image-caption {
+.image-caption span > a {
 	
 }
